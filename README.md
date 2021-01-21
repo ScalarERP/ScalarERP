@@ -1,5 +1,5 @@
 <p align="center" style="color:'blue'">
-[<img src="scalarerp.svg">]()
+<img src="scalarerp.svg">
 </p>
 
 <h1 align="center">
