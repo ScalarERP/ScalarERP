@@ -1,5 +1,5 @@
 <h1 align="center">
-   Jonas Gedrat - Proprietário da Scalar Informática
+   Jonas Gedrat - Scalar Informática
 </h1>
 
 <h3 align="center">Full Stack Developer since 1995</h3>
