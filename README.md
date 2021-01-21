@@ -16,7 +16,7 @@ const JonasGedrat = {
   BackEnd tools: [.net.Core, AspNet.Core, MVC, WebForms(migration), MySql, MSSQL, Oracle],  
   FrondEnd code: [Javascript, Typescript, JAMStack, HTML, CSS],
   FrontEnd tools: [React, NextJS, Vue, Tailwind, Node, Prisma, RedWood],  
-  Today: ["Now focused on NextJS and typescript"],
+  Today: ["Now focused on NextJS and typescript, VERCEL and AWS"],
   LegacyTools: [Ms Acsess, Vba],
   OtherStacks: [ERP, CRM, BI, NFE, NFCe, NFSe, SPED, Boletos],  
 }
