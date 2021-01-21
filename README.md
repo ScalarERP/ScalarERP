@@ -12,7 +12,7 @@ const jonasGedrat = {
   FrontEnd tools: [React, NextJS, Vue, Tailwind, Node, Prisma, RedWood],  
   Today: ["Now focused on NextJS and typescript"],
   LegacyTools: [Ms Acsess, Vba],
-  BrasilStacks: [NFE, NFCe, NFSe, SPED, Boletos],  
+  OtherStacks: [ERP, CRM, BI, NFE, NFCe, NFSe, SPED, Boletos],  
 }
 ```
 
