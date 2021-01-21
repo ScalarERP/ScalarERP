@@ -1,4 +1,4 @@
-<p align="center" style="color:'blue'">
+<p align="center">
 <img src="scalarerp.svg">
 </p>
 
