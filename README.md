@@ -11,7 +11,7 @@
 <h3 align="center">Full Stack Developer since 1995</h3>
 
 ```javascript
-const jonasGedrat = {
+const JonasGedrat = {
   BackEnd code: [C#, Vb.net, Sql, PL/SQL],
   BackEnd tools: [.net.Core, AspNet.Core, MVC, WebForms(migration), MySql, MSSQL, Oracle],  
   FrondEnd code: [Javascript, Typescript, JAMStack, HTML, CSS],
