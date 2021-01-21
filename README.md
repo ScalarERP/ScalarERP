@@ -2,6 +2,12 @@
    Jonas Gedrat - Scalar Informática
 </h1>
 
+{::nomarkdown}
+<svg width="400" height=300>
+    <circle cx="150" cy="100" r="10" fill="blue"/>
+</svg>
+{:/}
+
 <h3 align="center">Full Stack Developer since 1995</h3>
 
 ```javascript
