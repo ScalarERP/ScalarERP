@@ -2,7 +2,7 @@
    Jonas Gedrat - Scalar Informática
 </h1>
 
-![](/scalarerp.svg)
+[<img src="test/scalarerp.svg">]()
 
 <h3 align="center">Full Stack Developer since 1995</h3>
 
