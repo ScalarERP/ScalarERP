@@ -17,7 +17,7 @@
 <h3 align="center">Full Stack  Developer</h3>
 
 ```javascript
-const morpa = {
+const jonasGedrat = {
   BackEnd code: [C#, Vb, Sql, PL/SQL],
   BackEnd tools: [.net Core, AspNet Core, MVC, WebForms(migration), MySql, MSSQL, Oracle],  
   FrondEnd code: [Javascript, Typescript, JAMStack, HTML, CSS],
