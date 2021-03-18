@@ -13,9 +13,9 @@
 ```javascript
 const JonasGedrat = {
   BackEnd code: [C#, Vb.net, Sql, PL/SQL],
-  BackEnd tools: [.net.Core, AspNet.Core, MVC, WebForms(migration), MySql, MSSQL, Oracle],  
+  BackEnd tools: [.net.Core, AspNet.Core, MVC, WebForms(legacy upgrades), MySql, MSSQL, Oracle],  
   FrondEnd code: [Javascript, Typescript, JAMStack, HTML, CSS],
-  FrontEnd tools: [React, NextJS, Vue, Tailwind, Node, Prisma, RedWood],  
+  FrontEnd tools: [React, NextJS, Tailwind, Node, Prisma, RedWood],  
   Today: [Focused on NextJS and typescript, VERCEL and AWS],
   LegacyTools: [Ms Acsess, Vba],
   OtherStacks: [ERP, CRM, BI, NFE, NFCe, NFSe, SPED, Boletos],  
@@ -25,7 +25,7 @@ const JonasGedrat = {
 <h5 align="center">Hoje atendendo diversas demandas:</h5>
 <ul>
   <li>Sistemas integrados Cliente-Servidor Web</li>
-  <li>Migração de WebForms para WebApi-React/Vue </li>
+  <li>Migração de WebForms para WebApi-React</li>
   <li>Web sites dinamicos e intitucionais</li>
   <li>Integração e desenvolvimento de NFE/NFCe/SPED/Boletos</li>
   <li>Sistemas de ERP</li>
