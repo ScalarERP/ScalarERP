@@ -12,7 +12,7 @@
 
 ```javascript
 const JonasGedrat = {
-  BackEnd code: [C#, Vb.net, Sql, PL/SQL],
+  BackEnd code: [C#, Vb.net, Sql, PL/SQL, Node.js],
   BackEnd tools: [.net.Core, AspNet.Core, MVC, WebForms(legacy upgrades), MySql, MSSQL, Oracle],  
   FrondEnd code: [Javascript, Typescript, JAMStack, HTML, CSS],
   FrontEnd tools: [React, NextJS, Tailwind, Node, Prisma, RedWood],  
